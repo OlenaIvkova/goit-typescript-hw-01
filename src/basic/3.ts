@@ -2,6 +2,8 @@ let value: string | number;
 
 let status: 'enable' | 'disable';
 
+
+//Gthtdshrf
 value = 'Hello';
 if (typeof value === 'string') {
   console.log('value is a string:', value);
